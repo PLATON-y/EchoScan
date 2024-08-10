@@ -1,62 +1,64 @@
-# Licence ÉOS
+# 🌐 **Licence ÉOS Version 1.1**
 
+## © 2024 Echoes of Hackers   
 
-## Licence ÉOS Version 1.0
+## **Auteur Principal** : Jonathan D (alias Platon-Y)  
 
-## Copyright © 2024 Echoes of Hackers
+**Code Hébergé sur** : GitHub - platon-y Repository
 
-## Auteur Principal : Jonathan Ducros (alias Platon-Y)
+## 🔒 **Autorisation d'Utilisation :**
 
-Code Hébergé sur : GitHub - platon-y Repository
+---
 
-### Autorisation d'Utilisation :
+### 🛑 **Réservé aux Membres :**  
 
-Le logiciel "EchoScan" est mis à disposition gratuitement 
-pour une utilisation personnelle, éducative et non commerciale.
-Les utilisateurs peuvent exécuter, copier, modifier, fusionner, 
-publier, distribuer, sous licence et vendre des copies du logiciel, 
-à condition que ces actions respectent les termes de 
-la présente licence.
+Le logiciel est exclusivement réservé aux membres de l'association **Echoes of Hackers**.  
 
-## Contributions :
+🚫 Toute utilisation, copie, modification, fusion, publication, distribution, sous licence et vente 
+de copies par des tiers non membres est strictement interdite sans l'autorisation expresse de l'association.
 
-Toute contribution apportée au projet "EchoScan" doit être 
-partagée sous les mêmes termes que la présente licence.
+### ✏️ **Contributions :**
 
-Les contributeurs conservent leurs droits d'auteur, 
-mais accordent à "Echoes of Hackers" une licence mondiale, 
-non exclusive, pour intégrer leurs contributions au projet.
+---
+Toute contribution doit être partagée sous les mêmes termes que cette licence.  
+Les contributeurs conservent leurs droits d'auteur, mais accordent 
+à **Echoes of Hackers** une licence mondiale, non exclusive, pour intégrer leurs contributions au projet.
 
-## Responsabilités :
+### ⚖️ **Responsabilités :**
 
-Le logiciel est fourni "tel quel", sans garantie d'aucune sorte, 
-expresse ou implicite, y compris, mais sans s'y limiter, 
-les garanties de qualité marchande, d'adéquation à un usage particulier 
-et d'absence de contrefaçon.
+---
+Le logiciel est fourni **"tel quel"**, sans garantie d'aucune sorte.  
+Les auteurs ou détenteurs de droits d'auteur ne peuvent être tenus responsables 
+de toute réclamation, dommage ou autre responsabilité découlant du logiciel.
 
-En aucun cas, les auteurs ou détenteurs de droits d'auteur ne pourront 
-être tenus responsables de toute réclamation, dommage ou autre 
-responsabilité, que ce soit dans le cadre d'une action contractuelle, 
-délictuelle ou autre, découlant du logiciel ou de l'utilisation ou 
-d'autres transactions dans le logiciel.
+### 🌍 **Respect des Valeurs :**
 
-## Respect des Valeurs :
+---
+L'utilisation du logiciel doit respecter les principes éthiques de **Echoes of Hackers**.  
 
-L'utilisation de "EchoScan" doit respecter les principes 
-éthiques de "Echoes of Hackers". 
+🚫 Toute utilisation malveillante, illégale ou contraire à l'éthique est strictement interdite.  
 
-Toute utilisation malveillante, illégale ou contraire à l'éthique 
-du logiciel est strictement interdite.
+**Echoes of Hackers** se réserve le droit de révoquer cette licence pour toute violation.
 
-"Echoes of Hackers" se réserve le droit de révoquer cette licence à 
-tout utilisateur ou entité qui ne respecte pas ces principes.
+### 💰 **Conditions Financières :**
 
-## Publication :
+---
+En cas d'échange financier relatif au logiciel, un calcul de droits d'auteur sera effectué par l'association.  
+Les utilisateurs concernés devront s'acquitter des droits définis par **Echoes of Hackers**.
 
-Toute publication, présentation ou utilisation publique du logiciel "EchoScan" 
-doit faire mention de l'association "Echoes of Hackers" et de la présente licence.
+### 📢 **Publication :**
 
-## Modifications de la Licence :
+---
+Toute publication ou utilisation publique doit mentionner l'association **Echoes of Hackers** et la présente licence.
 
-"Echoes of Hackers" se réserve le droit de modifier les termes de la présente licence. 
+### 🔄 **Modifications de la Licence :**
+
+---
+**Echoes of Hackers** se réserve le droit de modifier les termes de cette licence. 
 Les modifications seront appliquées de manière rétroactive, sauf indication contraire.
+
+## **⚠️ ATTENTION :**  
+
+Seuls les membres de **Echoes of Hackers** sont autorisés à utiliser les outils développés dans ce cadre.  
+Toute violation pourra entraîner des sanctions, y compris la révocation de cette licence.
+
